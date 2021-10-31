@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @matthew-cui
-- 👀 I’m interested in programming, I like 
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning data analysis
 
 <!---
